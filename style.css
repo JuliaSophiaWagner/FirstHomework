@@ -54,7 +54,7 @@ body {
 @keyframes float {
     0% {
 		box-shadow: 0 50px 55px 0px rgba(61, 2, 27, 0.6);
-        transform: translatex(200%)
+        transform: translatex(100%)
 	}
 	50% {
 		box-shadow: 0 25px 50px 0px rgba(70, 18, 42, 0.2);
@@ -63,7 +63,7 @@ body {
     75%
     {
         box-shadow: 0 25px 50px 0px rgba(58, 10, 46, 0.9);
-		transform: translatex(200%);
+		transform: translatex(100%);
     }
 	100% {
 		box-shadow: 0 25px 50px 0px rgba(58, 10, 46, 0.9);
