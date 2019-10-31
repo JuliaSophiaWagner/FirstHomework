@@ -98,7 +98,6 @@ body {
 .container .card .face.face1{
     position: relative;
     background: #333;
-    display: flex;
     justify-content: center;
     align-items: center;
     z-index: 1;
@@ -136,7 +135,6 @@ body {
 .container .card .face.face2{
     position: relative;
     background: #fff;
-    display: flex;
     justify-content: center;
     align-items: center;
     padding: 20%;
