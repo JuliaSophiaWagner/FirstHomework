@@ -136,6 +136,7 @@ body {
     position: relative;
     background: #fff;
     justify-content: center;
+    text-align: center;
     align-items: center;
     padding: 20%;
     box-sizing: border-box;
