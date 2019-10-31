@@ -136,7 +136,6 @@ body {
     position: relative;
     background: #fff;
     justify-content: center;
-    text-align: center;
     align-items: center;
     padding: 20%;
     box-sizing: border-box;
@@ -150,16 +149,8 @@ body {
 .container .card .face.face2 .content p{
     margin: 0;
 	padding: 0;
+    text-align: center;
 	color:black;
-}
-
-.container .card .face.face2 .content a{
-    margin: 15px 0 0;
-    display:  inline-block;
-    text-decoration: none;
-    font-weight: 900;
-    color: #333;
-    padding: 5%;
 }
 
 .container .card .face.face2 .content a:hover{
